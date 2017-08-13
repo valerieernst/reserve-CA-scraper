@@ -1,0 +1,19 @@
+{
+  "name": "reserve-ca-scraper",
+  "version": "1.0.0",
+  "description": "An attempt at getting some hot camp sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valerieernst/reserve-CA-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valerieernst/reserve-CA-scraper/issues"
+  },
+  "homepage": "https://github.com/valerieernst/reserve-CA-scraper#readme"
+}
